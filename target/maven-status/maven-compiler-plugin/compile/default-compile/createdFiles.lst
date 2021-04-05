@@ -1,0 +1,10 @@
+com\training\ImageManagementUtility\hibernate\FactoryProvider.class
+com\training\ImageManagementUtility\servlet\ImageEdit.class
+com\training\ImageManagementUtility\servlet\ForgotPass.class
+com\training\ImageManagementUtility\servlet\ImageDelete.class
+com\training\ImageManagementUtility\servlet\RegisterUser.class
+com\training\ImageManagementUtility\model\User.class
+com\training\ImageManagementUtility\servlet\Login.class
+com\training\ImageManagementUtility\servlet\Welcome.class
+com\training\ImageManagementUtility\model\Image.class
+com\training\ImageManagementUtility\servlet\ImageSave.class
